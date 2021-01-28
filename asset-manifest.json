@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/BrettM265/To-Do/static/css/main.d52660a6.chunk.css",
-    "main.js": "/BrettM265/To-Do/static/js/main.51e54560.chunk.js",
-    "main.js.map": "/BrettM265/To-Do/static/js/main.51e54560.chunk.js.map",
-    "runtime-main.js": "/BrettM265/To-Do/static/js/runtime-main.dafe1469.js",
-    "runtime-main.js.map": "/BrettM265/To-Do/static/js/runtime-main.dafe1469.js.map",
-    "static/js/2.3dc12093.chunk.js": "/BrettM265/To-Do/static/js/2.3dc12093.chunk.js",
-    "static/js/2.3dc12093.chunk.js.map": "/BrettM265/To-Do/static/js/2.3dc12093.chunk.js.map",
-    "index.html": "/BrettM265/To-Do/index.html",
-    "static/css/main.d52660a6.chunk.css.map": "/BrettM265/To-Do/static/css/main.d52660a6.chunk.css.map",
-    "static/js/2.3dc12093.chunk.js.LICENSE.txt": "/BrettM265/To-Do/static/js/2.3dc12093.chunk.js.LICENSE.txt"
+    "main.css": "//brettm265.github.io/To-Do/static/css/main.d52660a6.chunk.css",
+    "main.js": "//brettm265.github.io/To-Do/static/js/main.51e54560.chunk.js",
+    "main.js.map": "//brettm265.github.io/To-Do/static/js/main.51e54560.chunk.js.map",
+    "runtime-main.js": "//brettm265.github.io/To-Do/static/js/runtime-main.79204c01.js",
+    "runtime-main.js.map": "//brettm265.github.io/To-Do/static/js/runtime-main.79204c01.js.map",
+    "static/js/2.3dc12093.chunk.js": "//brettm265.github.io/To-Do/static/js/2.3dc12093.chunk.js",
+    "static/js/2.3dc12093.chunk.js.map": "//brettm265.github.io/To-Do/static/js/2.3dc12093.chunk.js.map",
+    "index.html": "//brettm265.github.io/To-Do/index.html",
+    "static/css/main.d52660a6.chunk.css.map": "//brettm265.github.io/To-Do/static/css/main.d52660a6.chunk.css.map",
+    "static/js/2.3dc12093.chunk.js.LICENSE.txt": "//brettm265.github.io/To-Do/static/js/2.3dc12093.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dafe1469.js",
+    "static/js/runtime-main.79204c01.js",
     "static/js/2.3dc12093.chunk.js",
     "static/css/main.d52660a6.chunk.css",
     "static/js/main.51e54560.chunk.js"
