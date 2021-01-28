@@ -1,0 +1,132 @@
+* {
+  margin:0;
+
+
+}
+
+.App {
+  text-align: left;
+  height: 100vh;
+  background-color: rgb(91, 176, 255);
+  
+  
+}
+
+
+.App-header {
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 32px;
+  color: black;
+  
+}
+
+button {
+margin-left: 10px;
+
+}
+button:hover {
+cursor: pointer;
+}
+
+.add {
+background-color: rgb(73, 245, 73) ;
+color: black;
+font-weight: bold;
+}
+.del {
+background-color: rgb(255, 121, 121);
+color: black;
+font-weight: bold;
+}
+input {
+  width: 8%;
+  margin-left: 470px;
+  padding-right:60px;
+  margin-top:1%;
+  
+  
+}
+.check {
+  margin-top:10px;
+  
+}
+.count {
+  margin-left:530px;
+  margin-top:20px;
+  margin-bottom:15px;
+  font-size:24px;
+
+}
+
+@media(max-width:1100px){
+  .App-header {
+    font-size: 42px;   
+  }
+  .add {
+  font-size:32px;
+  }
+  .del {
+  font-size:32px;
+  }
+  input {
+    width: 20%;
+    margin-left: 250px;
+    margin-top:3%;
+    font-size:32px;
+  }
+  .check {
+    margin-top:15px;
+    block-size: 24px;
+  }
+  .count {
+    margin-left:330px;
+    margin-top:20px;
+    margin-bottom:15px;
+    font-size:42px;
+  
+  }
+  .todos{
+    font-size:32px;
+  }
+}
+@media(max-width:800px){
+  input {
+    margin-left: 150px;
+  }
+
+  .count {
+    margin-left:190px;
+  }
+
+}
+@media(max-width:600px){
+  .App-header {
+    font-size: 24px;   
+  }
+  .add {
+  font-size:18px;
+  }
+  .del {
+  font-size:18px;
+  }
+  input {
+    width: 20%;
+    margin-left: 40px;
+    font-size:18px;
+  }
+  .check {
+    block-size: 16px;
+  }
+  .count {
+    margin-left:90px;
+    font-size:24px;
+  
+  }
+  .todos{
+    font-size:18px;
+  }
+}
